@@ -1,1 +1,1 @@
-# UoB-Data-Structure-and-Algorithms
+# University of Birmingham Data Structure and Algorithms Course
